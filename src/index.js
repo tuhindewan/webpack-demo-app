@@ -1,0 +1,1 @@
+alert("So far so good");
